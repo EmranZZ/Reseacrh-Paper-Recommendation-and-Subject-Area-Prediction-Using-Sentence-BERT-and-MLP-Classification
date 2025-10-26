@@ -124,8 +124,8 @@ Research Papers Recommendation System/
 - Binary crossentropy loss for multi-label classification
 - Early stopping for optimal training
 
-## 📝 License
-This project is licensed under **NOOR SAEED**
+<!-- ## 📝 License
+This project is licensed under **MOHAMMAD EMRAN AHMED** -->
 
 ## 🙏 Acknowledgments
 - Sentence-BERT paper: [Reimers & Gurevych (2019)](https://arxiv.org/abs/1908.10084)
@@ -134,7 +134,7 @@ This project is licensed under **NOOR SAEED**
 - TensorFlow/Keras team
 
 ## 👨‍💻 Author
-**NOOR SAEED**
+**MOHAMMAD EMRAN AHMED, SHEIKH ASHRAFUL**
 
 ---
 
