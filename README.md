@@ -662,8 +662,8 @@ Director, IICT | Professor, Computer Science and Engineering
 
 For questions, suggestions, or collaboration:
 - Open an issue on GitHub
-- Email: [Your email]
-- Project Repository: [GitHub URL]
+- Email: [emran40@student.sust.edu]
+- Project Repository: [ https://github.com/EmranZZ/Reseacrh-Paper-Recommendation-and-Subject-Area-Prediction-Using-Sentence-BERT-and-MLP-Classification ]
 
 ## 🙏 Acknowledgments
 
